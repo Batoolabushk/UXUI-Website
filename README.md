@@ -1,6 +1,5 @@
 # UX/UI Website Project
 
-![Project Preview](assets/preview.jpg) <!-- Replace with an actual preview image if available -->
 
 A modern, responsive website showcasing UX/UI design principles, built with HTML, CSS, and JavaScript.
 
